@@ -1,3 +1,3 @@
 # my_introduction
-Ravikiran 
-author of this repository
+ 
+author of this repository is Ravikiran
